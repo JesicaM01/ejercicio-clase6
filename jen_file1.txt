@@ -1,4 +1,9 @@
 Este es el desarrollo del ejercicio de la clase número 6. 
 Archivo 1.
 
+HEAD
 Estamos creando conflictos. Para el desarrollo del punto número 7 del ejercicio número 6.
+
+Estamos creando conflicto. Para el desarrollo del punto 7
+
+ESTAMOS CONSERVANDO AMBOS CAMBIOS PARA RESOLVER EL CONFLICTO.
