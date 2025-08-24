@@ -1,2 +1,4 @@
 Este es el desarrollo del ejercicio de la clase número 6. 
 Archivo 1.
+
+Estamos creando conflictos. Para el desarrollo del punto número 7 del ejercicio número 6.
